@@ -1,0 +1,2 @@
+# SP500-Altman-Z-Score-Analysis-by-Sector-and-Market-Capitalization
+This project analyzes the financial health of sectors within the S&amp;P 500 using the Altman Z-Score, a measure of corporate bankruptcy risk. The goal is to identify which sectors exhibit higher overall Z-Scores, indicating stronger financial health, and to explore how market capitalization influences the Z-Scores across different sectors.
