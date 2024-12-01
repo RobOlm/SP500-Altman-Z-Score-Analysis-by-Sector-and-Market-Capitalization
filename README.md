@@ -19,7 +19,7 @@
 
 This data analysis project investigates the financial health of sectors within the S&P 500 using the Altman Z-Score, a metric used to assess a company's likelihood of bankruptcy. The analysis focuses on understanding how different sectors within the S&P 500 perform in terms of financial health, and how market capitalization influences the Z-Scores within those sectors. The project uses Python to clean, process, and analyze financial data, and Power BI to create visual dashboards that help interpret the findings.
 
-![S&P 500 Altman Z-Score Dashboard](path-to-your-image.png)
+![S&P 500 Altman Z-Score Dashboard](S&P_500_Altman_Z-Score_Dashboard.png)
 
 ### Business Questions
 ---
